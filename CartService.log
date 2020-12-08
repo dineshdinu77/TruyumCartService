@@ -1,0 +1,28 @@
+INFO  07:32:51 Application started. Press Ctrl+C to shut down.
+INFO  07:32:51 Hosting environment: Development
+INFO  07:32:51 Content root path: C:\Users\deepa\Desktop\Truyum\CartService
+INFO  07:33:36 Http post Request Initiated for the user Id 6
+INFO  07:33:36 Obtained Valid Model
+INFO  07:34:01 Http Delete Request Initiated for the user Id 6
+INFO  07:51:43 Application started. Press Ctrl+C to shut down.
+INFO  07:51:43 Hosting environment: Development
+INFO  07:51:43 Content root path: C:\Users\deepa\Desktop\Truyum\CartService
+INFO  08:02:44 Http get request initiated for all cart Items
+ERROR 08:02:44 Http get Request Failed Due to The given key '0' was not present in the dictionary.
+INFO  08:49:28 Application started. Press Ctrl+C to shut down.
+INFO  08:49:28 Hosting environment: Development
+INFO  08:49:28 Content root path: C:\Users\deepa\Desktop\Truyum\CartService
+INFO  08:50:13 Http get request initiated for all cart Items
+ERROR 08:50:13 Http get Request Failed Due to The given key '1' was not present in the dictionary.
+INFO  08:50:21 Http get request initiated for all cart Items
+ERROR 08:50:21 Http get Request Failed Due to The given key '2' was not present in the dictionary.
+INFO  08:50:42 Http post Request Initiated for the user Id 1
+INFO  08:50:42 Obtained Valid Model
+INFO  08:50:57 Http get request initiated for all cart Items
+INFO  08:50:57 All the MenuItems were displayed
+INFO  08:56:31 Http get request initiated for all cart Items
+ERROR 08:56:31 Http get Request Failed Due to The given key '0' was not present in the dictionary.
+INFO  09:01:20 Http get request initiated for all cart Items
+ERROR 09:01:20 Http get Request Failed Due to The given key '0' was not present in the dictionary.
+INFO  09:10:55 Http get request initiated for all cart Items
+ERROR 09:10:55 Http get Request Failed Due to The given key '0' was not present in the dictionary.
